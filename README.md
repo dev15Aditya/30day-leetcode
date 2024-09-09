@@ -6,3 +6,6 @@
 
 ## Day 2
 ![alt text]({234F7015-DBAB-4F40-A0BE-451F802826EF}.png)
+
+## Day 3
+![alt text]({4D09EB80-BAEB-4ECE-831B-BAFA04B9EFE8}.png)
