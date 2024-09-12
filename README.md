@@ -9,3 +9,12 @@
 
 ## Day 3
 ![alt text]({4D09EB80-BAEB-4ECE-831B-BAFA04B9EFE8}.png)
+
+## Day 4
+![alt text]({0A80FFC0-FAB8-4EA5-A1DA-17F22B5E105F}.png)
+
+## Day 5
+![alt text]({8CBBB9FC-549F-4C22-97C9-436F5E66A817}.png)
+
+## Day 6
+![alt text]({3EEA3AC7-4D8B-43F9-BF78-BDCFFB53DDB1}.png)
